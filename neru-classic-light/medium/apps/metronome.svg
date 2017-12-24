@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   version="1.1"
+   height="32"
+   viewBox="0 0 32 32"
+   id="svg20"
+   sodipodi:docname="metronome.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="8.9375"
+     inkscape:cx="-28.994816"
+     inkscape:cy="7.5726979"
+     inkscape:current-layer="svg20" />
+  <rect
+     style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3-3-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <g
+     id="g4547">
+    <path
+       id="path4530"
+       d="M 29.675781 26.640625 C 29.942495 25.988129 30.101562 25.278032 30.101562 24.527344 L 30.101562 7.4726562 C 30.101563 4.3840054 27.615995 1.8984375 24.527344 1.8984375 L 22.230469 1.8984375 C 22.367522 1.971609 22.548945 1.9744467 22.654297 2.09375 C 22.886311 2.3564894 23.044353 2.7150476 23.150391 3.0976562 L 29.675781 26.640625 z "
+       style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path4528"
+       d="M 9.7695312 1.8984375 L 7.4726562 1.8984375 C 4.3840054 1.8984375 1.8984375 4.3840054 1.8984375 7.4726562 L 1.8984375 24.527344 C 1.8984375 25.278032 2.0575053 25.988129 2.3242188 26.640625 L 8.8496094 3.0976562 C 8.9556419 2.7150476 9.1136856 2.3564894 9.3457031 2.09375 C 9.4510564 1.9744467 9.632478 1.971609 9.7695312 1.8984375 z "
+       style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path4533"
+       d="M 13.068359 1.8984375 L 9.7695312 1.8984375 C 9.6324781 1.971609 9.4510564 1.9744467 9.3457031 2.09375 C 9.1136856 2.3564894 8.9556419 2.7150477 8.8496094 3.0976562 L 2.3242188 26.640625 C 3.1548783 28.672777 5.1346934 30.101563 7.4726562 30.101562 L 24.527344 30.101562 C 26.865307 30.101563 28.845122 28.672777 29.675781 26.640625 L 23.150391 3.0976562 C 23.044353 2.7150477 22.886311 2.3564894 22.654297 2.09375 C 22.548945 1.9744467 22.367522 1.971609 22.230469 1.8984375 L 18.931641 1.8984375 L 16 6.7851562 L 13.068359 1.8984375 z "
+       style="opacity:1;fill:#3cb2d4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="rect4497-3-3"
+       d="M 13.068359 1.8984375 L 16 6.7851562 L 18.931641 1.8984375 L 13.068359 1.8984375 z "
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       cy="24.191835"
+       cx="15.999593"
+       r="4.0959039"
+       id="circle8"
+       style="fill:#ffffff;stroke-width:1" />
+    <rect
+       ry="1.670105"
+       rx="1.4775974"
+       transform="rotate(30)"
+       height="21.503496"
+       width="3.071928"
+       y="-7.0441618"
+       x="24.378735"
+       id="rect12"
+       style="fill:#febe43;stroke-width:1;fill-opacity:1" />
+  </g>
+</svg>

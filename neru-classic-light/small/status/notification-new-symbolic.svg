@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="notification-new-symbolic.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="769"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="0.641774"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g824"
+     transform="translate(3.031465,2.498)">
+    <path
+       id="path2"
+       d="M 11.09,1.7012 C 8.8767,0.95343 6.3842,1.8377 5.1695,3.9414 l -2.25,3.8965 -2.73243,0.7324 -0.25,0.4336 1.73243,1.0001 8.6605,5 1.733,1 0.25,-0.434 -0.733,-2.732 1.25,-2.164 1,-1.7326 C 14.375,7.9984 14.561,6.9577 14.463,5.9551 14.311,5.9792 14.158,6.0039 14,6.0039 c -1.645,0 -3,-1.355 -3,-3 0,-0.4362 0.099,-0.8487 0.273,-1.2219 0,0 -0.181,-0.0801 -0.183,-0.0808 z M 4.0016,12.504 c 0,0.714 0.38,1.375 0.998,1.732 0.6183,0.356 1.3803,0.355 1.998,-0.002 z"
+       style="fill:#5c616c"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="circle4"
+       r="2"
+       cy="3"
+       cx="14"
+       class="warning"
+       style="fill:#5294e2" />
+  </g>
+</svg>

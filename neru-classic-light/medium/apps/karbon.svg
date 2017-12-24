@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1"
+   id="svg594"
+   sodipodi:docname="calligrakarbon.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata600">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs598" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview596"
+     showgrid="false"
+     inkscape:zoom="11.932427"
+     inkscape:cx="-1.8411971"
+     inkscape:cy="14.503593"
+     inkscape:current-layer="svg594" />
+  <rect
+     style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <g
+     id="g5088"
+     transform="matrix(0.88531913,0,0,0.88531913,1.8348939,0.50691523)"
+     style="stroke-width:1.12953615">
+    <path
+       id="path572"
+       d="m 5,9 c 0,0 7.8295,0.60297 10,3.0004 1.6667,1.8409 -1.6063,5.1056 0,6.9996 2.1358,2.5183 10,4 10,4"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#ff80ff;stroke-width:1.12953615;stroke-linecap:round;stroke-linejoin:round" />
+    <circle
+       id="circle584"
+       r="1"
+       cx="5"
+       cy="9"
+       style="fill:#ffffff;stroke-width:1.12953615" />
+    <circle
+       id="circle586"
+       r="4"
+       cx="24"
+       cy="23"
+       style="fill:#ffffff;stroke-width:1.12953615" />
+    <circle
+       id="circle588"
+       r="3"
+       cx="15"
+       cy="19"
+       style="fill:#ffffff;stroke-width:1.12953615" />
+    <circle
+       id="circle590"
+       r="2"
+       cx="15"
+       cy="12"
+       style="fill:#ffffff;stroke-width:1.12953615" />
+  </g>
+</svg>

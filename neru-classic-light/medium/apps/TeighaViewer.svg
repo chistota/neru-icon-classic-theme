@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   viewBox="0 0 32 32"
+   width="32"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="TeighaViewer.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="8.375"
+     inkscape:cx="-37.813289"
+     inkscape:cy="-3.7329071"
+     inkscape:current-layer="svg34" />
+  <rect
+     style="opacity:1;fill:#7d122b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <g
+     id="g4530"
+     transform="translate(40.86444,-1.0065837)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4"
+       style="fill:#ba122b;fill-opacity:1;stroke-width:1"
+       d="m -24.143935,11.602793 a 7.9255594,7.9255594 0 0 0 -7.925559,7.92556 7.9255594,7.9255594 0 0 0 7.925559,7.925559 7.9255594,7.9255594 0 0 0 7.92556,-7.925559 7.9255594,7.9255594 0 0 0 -7.92556,-7.92556 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8"
+       d="m -24.143934,6.5592554 a 6.484549,6.484549 0 0 0 -6.484549,6.4845476 6.484549,6.484549 0 0 0 6.484549,6.48455 6.484549,6.484549 0 0 0 6.484548,-6.48455 6.484549,6.484549 0 0 0 -6.484548,-6.4845476 z"
+       style="fill:#e9314e;fill-opacity:1;stroke-width:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14"
+       style="fill:#ef6e82;fill-opacity:1;stroke-width:1"
+       d="m -28.466968,10.161783 a 5.0435381,5.0435381 0 0 0 -5.043537,5.043537 5.0435381,5.0435381 0 0 0 5.043537,5.043538 5.0435381,5.0435381 0 0 0 5.043539,-5.043538 5.0435381,5.0435381 0 0 0 -5.043539,-5.043537 z" />
+    <g
+       style="stroke-width:1.38791466"
+       transform="matrix(0.7205054,0,0,0.7205054,-36.392526,5.1182448)"
+       id="g32">
+      <path
+         inkscape:connector-curvature="0"
+         id="path26"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.38791466"
+         d="m 17,11 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 z m 0,2 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path28"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.38791466"
+         d="m 11,9 a 5.0000003,5.0000003 0 0 0 -5,5 5.0000003,5.0000003 0 0 0 5,5 5.0000003,5.0000003 0 0 0 5,-5 5.0000003,5.0000003 0 0 0 -5,-5 z m 0,2 a 3.0000002,3.0000002 0 0 1 3,3 3.0000002,3.0000002 0 0 1 -3,3 3.0000002,3.0000002 0 0 1 -3,-3 3.0000002,3.0000002 0 0 1 3,-3 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path30"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.38791466"
+         d="m 17,4 a 7.0000005,7.0000005 0 0 0 -7,7 7.0000005,7.0000005 0 0 0 7,7 7.0000005,7.0000005 0 0 0 7,-7 7.0000005,7.0000005 0 0 0 -7,-7 z m 0,2 a 5.0000004,5.0000004 0 0 1 5,5 5.0000004,5.0000004 0 0 1 -5,5 5.0000004,5.0000004 0 0 1 -5,-5 5.0000004,5.0000004 0 0 1 5,-5 z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1"
+   id="svg46"
+   sodipodi:docname="ppsspp.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs50" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="9.5"
+     inkscape:cx="-30.145819"
+     inkscape:cy="4.5481354"
+     inkscape:current-layer="svg46" />
+  <rect
+     style="opacity:1;fill:#0093cd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <g
+     id="g4548"
+     transform="translate(43.684211,-1.3684201)">
+    <rect
+       transform="rotate(-33.049917)"
+       style="fill:#4f4f4f;stroke-width:0.99999994"
+       id="rect2"
+       x="-44.571732"
+       y="-6.4873567"
+       width="23.789474"
+       height="11.894737"
+       ry="3.5684209"
+       rx="3.5684209" />
+    <rect
+       transform="rotate(-33.049917)"
+       style="fill:#0093cd;stroke-width:0.99999994"
+       id="rect4"
+       x="-38.624363"
+       y="-4.7881083"
+       width="11.894737"
+       height="8.4962406" />
+    <g
+       style="fill:none;stroke:#ffffff;stroke-width:0.58849555"
+       id="g12"
+       transform="matrix(0.71215128,-0.46335904,0.46335904,0.71215128,-46.043629,13.298496)">
+      <path
+         style="stroke-width:0.58849555"
+         inkscape:connector-curvature="0"
+         id="path6"
+         d="m 9.85,18.8 v -3.15 h 2.8 v -2.8 H 9.5" />
+      <path
+         style="stroke-width:0.58849555"
+         inkscape:connector-curvature="0"
+         id="path8"
+         d="m 17,12.85 h -1.75 v 5.6 H 13.5" />
+      <path
+         style="stroke-width:0.58849555"
+         inkscape:connector-curvature="0"
+         id="path10"
+         d="m 17.85,18.8 v -3.15 h 2.8 v -2.8 H 17.5" />
+    </g>
+    <g
+       style="fill:#697e83;stroke-width:1.17699111"
+       transform="matrix(0.71215128,-0.46335904,0.46335904,0.71215128,-46.492376,13.387745)"
+       id="g40">
+      <path
+         style="stroke-width:1.17699111"
+         inkscape:connector-curvature="0"
+         id="path28"
+         d="m 5.4,13 c -0.3324,0 -0.6,0.2676 -0.6,0.6 v 1.2 l -1.2,-1e-6 c -0.3324,0 -0.6,0.2676 -0.6,0.6 v 1.2 c 0,0.3324 0.2676,0.6 0.6,0.6 h 1.2 v 1.2 c 0,0.332 0.2676,0.6 0.6,0.6 h 1.2 c 0.3324,-2e-6 0.6,-0.2676 0.6,-0.6 v -1.2 h 1.2 c 0.3324,0 0.6,-0.2676 0.6,-0.6 v -1.2 c 0,-0.332 -0.2676,-0.6 -0.6,-0.6 H 7.2 v -1.2 c 0,-0.332 -0.2676,-0.6 -0.6,-0.6 z" />
+      <g
+         style="stroke-width:1.17699111"
+         id="g38">
+        <circle
+           style="stroke-width:1.17699111"
+           id="circle30"
+           transform="rotate(90)"
+           r="1"
+           cx="14"
+           cy="-26" />
+        <circle
+           style="stroke-width:1.17699111"
+           id="circle32"
+           transform="rotate(90)"
+           r="1"
+           cx="18"
+           cy="-26" />
+        <circle
+           style="stroke-width:1.17699111"
+           id="circle34"
+           transform="scale(-1)"
+           r="1"
+           cx="-28"
+           cy="-16" />
+        <circle
+           style="stroke-width:1.17699111"
+           id="circle36"
+           transform="scale(-1)"
+           r="1"
+           cx="-24"
+           cy="-16" />
+      </g>
+    </g>
+  </g>
+</svg>
