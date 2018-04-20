@@ -1,8 +1,8 @@
 neru-icon-classic-theme
 =========================
 
-* Классическая тема иконок Неру для РОСA. Версия 1.1
-* Classic theme icons Neru for ROSA. Version 1.1
+* Классическая тема иконок Неру для РОСA. Версия 1.2
+* Classic theme icons Neru for ROSA. Version 1.2
 
 ## Изображение / Image
 
@@ -11,6 +11,7 @@ neru-icon-classic-theme
 ## Изменения
 
 * Добавленно несколько иконок
+* Исправлены ошибки
 
 
 ## Change
@@ -22,7 +23,7 @@ neru-icon-classic-theme
 ## Особенности
 
 * Более 3000 иконок
-* Подходит для разных окружений KDE4, KDE5 Plasma, Xfce, Gnome, LXQT, Mate и т.д.
+* Подходит для разных окружений KDE4, KDE5 Plasma, Xfce, Gnome, LXQT, Мате и т.д.
 * Для тёмных и светлых тем
 
 ## Features

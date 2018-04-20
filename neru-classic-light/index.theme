@@ -55,6 +55,13 @@ MinSize=16
 MaxSize=22
 Type=Scalable
 
+[small/extra]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=22
+Type=Scalable
+
 [small/extra/clementine]
 Context=Actions
 Size=16

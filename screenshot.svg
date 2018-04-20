@@ -102,9 +102,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="3794.9529"
-     inkscape:cy="3090.7301"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="399.75132"
+     inkscape:cy="3167.3793"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2253,10 +2253,16 @@
        id="path1199"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.10000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 1091.8831,-580.28964 h 4.5939 v -7.99109 h -4.5939 z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1197-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.10000003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1115.9452,-580.58485 h 4.5319 v -46.86836 h -12.3541 v 4.24923 h 7.8222 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:67.05127716px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.02884531"
+       x="1102.9124"
+       y="-580.82007"
+       id="text1179"><tspan
+         sodipodi:role="line"
+         id="tspan1177"
+         x="1102.9124"
+         y="-580.82007"
+         style="fill:#ffffff;stroke-width:5.02884531">2</tspan></text>
   </g>
 </svg>
