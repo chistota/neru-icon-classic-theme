@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="yd-128.svg"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    inkscape:export-filename="/home/ramil/yandex-disk.png"
    inkscape:export-xdpi="108.92308"
    inkscape:export-ydpi="108.92308">
@@ -24,6 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="955"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="-7.4903753"
-     inkscape:cy="16.556837"
+     inkscape:cx="-11.996683"
+     inkscape:cy="15.885685"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,7 +59,7 @@
      y="1.8983059"
      ry="5.575182" />
   <path
-     style="fill:#4f4f4f;stroke-width:0.65744656"
+     style="fill:#b3b3b3;stroke-width:0.65744656"
      d="m 15.342528,9.7542961 c -4.602126,0 -3.531709,4.0570289 -5.888002,5.3234089 -2.39051,1.35622 -1.073461,2.570338 -0.686464,3.880843 0.652899,2.185176 2.481832,0.641288 7.889359,-0.657446 5.407264,-1.298436 6.569999,-1.102219 5.917019,-3.287233 -0.391533,-1.295891 0.893546,-2.496906 -1.900772,-2.611268 -2.271194,0.124397 -2.043908,-2.6483049 -5.33114,-2.6483049 z"
      id="path4"
      inkscape:connector-curvature="0" />
