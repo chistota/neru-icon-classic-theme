@@ -12,7 +12,7 @@
    version="1"
    id="svg22"
    sodipodi:docname="kicad.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="955"
+     inkscape:window-height="972"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="10.476309"
+     inkscape:cx="-5.9669199"
      inkscape:cy="19.660833"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -63,7 +63,7 @@
      height="28.203388"
      width="28.203388"
      id="rect4497-3"
-     style="font-style:normal;font-weight:normal;font-size:medium;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#44579d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="font-style:normal;font-weight:normal;font-size:medium;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#46729d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <g
      aria-label="K"
      style="font-style:normal;font-weight:normal;font-size:27.73773766px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.69344342"
