@@ -1,8 +1,8 @@
 neru-icon-classic-theme
 =========================
 
-* Классическая тема иконок Неру для РОСA. Версия 1.4
-* Classic theme icons Neru for ROSA. Version 1.4
+* Классическая тема иконок Неру для РОСA. Версия 1.5
+* Classic theme icons Neru for ROSA. Version 1.5
 
 ## Изображение / Image
 
@@ -10,7 +10,7 @@ neru-icon-classic-theme
 
 ## Изменения
 
-* Добавленно несколько иконок: Rawstudio, Falkon, Krename, Pulseeffect, AVR8 Burn o mate, Flashprint, Simplify3d, Color picker
+* Добавленно несколько иконок для LXQT
 * Исправлены ошибки
 
 
