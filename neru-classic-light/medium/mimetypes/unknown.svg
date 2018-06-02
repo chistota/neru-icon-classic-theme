@@ -11,8 +11,8 @@
    height="32"
    version="1"
    id="svg14"
-   sodipodi:docname="gnome-unknown.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="unknown.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="978"
+     inkscape:window-height="972"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-16.406779"
+     inkscape:cx="-42.237287"
      inkscape:cy="12.610169"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -56,9 +56,4 @@
      d="M 30,10.813019 21.186981,2 v 3.278948 c 0,3.0664051 2.467666,5.534071 5.534072,5.534071 z"
      id="rect4497-3"
      inkscape:connector-curvature="0" />
-  <path
-     d="m 16.177424,10.525424 c -2.947191,0 -4.422557,2.253184 -4.422557,4.175142 h 2.653535 c 0.04394,-0.245554 0.0027,-0.470316 0,-0.695858 0,-0.768615 0.792025,-1.391713 1.769022,-1.391713 0.976997,0 1.769023,0.623098 1.769023,1.391713 -6.43e-4,0.07654 -0.0093,0.152909 -0.02592,0.228325 -0.0032,0.01592 -0.0049,0.03159 -0.0086,0.04757 -0.300734,1.317953 -2.593388,2.780644 -2.618154,4.85708 v 0.434911 h 2.653534 c 0,-1.304731 -0.165492,-1.826346 0.630551,-2.461385 l 0.995075,-0.800514 c 0.631541,-0.49545 1.029571,-1.191307 1.029571,-1.95675 0,-1.921956 -1.475365,-3.827212 -4.422557,-3.827212 z m -0.884511,10.437853 v 2.087571 h 2.653534 v -2.087571 z"
-     id="path10"
-     inkscape:connector-curvature="0"
-     style="opacity:1;stroke-width:1.33126569;fill:#999999" />
 </svg>
