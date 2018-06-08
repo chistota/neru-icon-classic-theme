@@ -1,16 +1,16 @@
 neru-icon-classic-theme
 =========================
 
-* Классическая тема иконок Неру для РОСA. Версия 1.6
-* Classic theme icons Neru for ROSA. Version 1.6
+* Классическая тема иконок Неру для РОСA. Версия 1.7
+* Classic theme icons Neru for ROSA. Version 1.7
 
 ## Изображение / Image
 
-![Screenshot](screenshot.svg)
+![Screenshot](classic.png)
 
 ## Изменения
 
-* Добавленно несколько иконок для LXQT
+* Изменена куча иконок, появилось несколько новых. Добавлена вожможность выбора цвета папок.
 * Исправлены ошибки
 
 
