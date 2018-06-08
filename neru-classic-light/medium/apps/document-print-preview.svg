@@ -12,7 +12,7 @@
    version="1"
    id="svg22"
    sodipodi:docname="document-print-preview.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -35,16 +35,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1680"
+     inkscape:window-height="972"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="12.639534"
-     inkscape:cx="5.1847276"
-     inkscape:cy="9.7912512"
-     inkscape:current-layer="svg22" />
+     inkscape:zoom="4.4687501"
+     inkscape:cx="-13.715294"
+     inkscape:cy="42.703081"
+     inkscape:current-layer="svg22"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <rect
-     style="opacity:1;fill:#62b199;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3-3"
      width="28.203388"
      height="28.203388"
@@ -58,11 +61,11 @@
      id="path4518-2" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#5b5b5b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#3d6fa1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m 8.137462,12.440776 v 5.56465 c 0,0.502285 0.202896,0.955048 0.53065,1.282802 0.327754,0.327754 0.780517,0.530649 1.282802,0.530649 h 12.098174 c 0.502284,0 0.955047,-0.202895 1.282802,-0.530649 0.327754,-0.327754 0.53065,-0.780517 0.53065,-1.282802 v -5.56465 z"
      id="rect4513-7" />
   <rect
-     style="opacity:1;fill:#525252;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#3d6fa1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4520-0"
      width="13.828707"
      height="2.599797"

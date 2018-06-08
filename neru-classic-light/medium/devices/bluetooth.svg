@@ -11,8 +11,8 @@
    height="32"
    version="1"
    id="svg10"
-   sodipodi:docname="bluetooth.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="application-vnd.kde.bluedevil-sendfile.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="2.7118646"
-     inkscape:cy="10.847458"
+     inkscape:cx="22.033898"
+     inkscape:cy="-2.4406776"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,5 +68,5 @@
      d="m 12.53337,12.546004 6.90799,6.907991 -3.453995,3.262106 V 9.283899 l 3.453995,3.262105 -6.90799,6.140436"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#ffffff;stroke-width:0.76755446;stroke-linecap:square" />
+     style="fill:none;stroke:#ffffff;stroke-width:1.468;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
 </svg>

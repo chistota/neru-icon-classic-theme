@@ -11,8 +11,8 @@
    width="32"
    version="1"
    id="svg48"
-   sodipodi:docname="alacarte.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="drakmenustyle.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata54">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="963"
+     inkscape:window-height="972"
      id="namedview50"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
-     inkscape:cy="16"
+     inkscape:cx="-5.8305089"
+     inkscape:cy="16.40678"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg48" />
   <rect
-     style="opacity:1;fill:#6993c4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
      width="28.203388"
      height="28.203388"
@@ -57,12 +57,13 @@
   <g
      id="g42"
      transform="translate(0.50189718,0.41506144)"
-     style="fill:#ffdd73">
+     style="fill:#ffffff;fill-opacity:1">
     <g
        transform="translate(-0.50371,-2.999)"
-       id="g28">
+       id="g28"
+       style="fill:#ffffff;fill-opacity:1">
       <path
-         style="color:#000000;fill-rule:evenodd"
+         style="color:#000000;fill-rule:evenodd;fill:#ffffff;fill-opacity:1"
          d="M 10.939,9 A 0.58872,0.58872 0 0 0 10.443,9.2324 C 9.7699,10.095 9.0672,11.26 8.3984,12.301 L 7.60152,10.9338 a 0.58907742,0.58907742 0 1 0 -1.0176,0.59375 l 1.2715,2.1797 a 0.58872,0.58872 0 0 0 0.99609,0.0332 c 0.82755,-1.2279 1.7643,-2.8153 2.5195,-3.7832 a 0.58872,0.58872 0 0 0 -0.432,-0.9578 z"
          id="path24"
          inkscape:connector-curvature="0" />
@@ -73,11 +74,13 @@
          width="13"
          y="11"
          x="12.5"
-         id="rect26" />
+         id="rect26"
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        transform="translate(-0.50371,-0.99982)"
-       id="g34">
+       id="g34"
+       style="fill:#ffffff;fill-opacity:1">
       <rect
          rx="1"
          ry="1"
@@ -85,16 +88,19 @@
          width="13"
          y="16"
          x="12.5"
-         id="rect30" />
+         id="rect30"
+         style="fill:#ffffff;fill-opacity:1" />
       <circle
          cy="17"
          cx="8.5"
          r="1"
-         id="circle32" />
+         id="circle32"
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
     <g
        transform="translate(-0.50371)"
-       id="g40">
+       id="g40"
+       style="fill:#ffffff;fill-opacity:1">
       <rect
          rx="1"
          ry="1"
@@ -102,12 +108,14 @@
          width="13"
          y="21"
          x="12.5"
-         id="rect36" />
+         id="rect36"
+         style="fill:#ffffff;fill-opacity:1" />
       <circle
          cy="22"
          cx="8.5"
          r="1"
-         id="circle38" />
+         id="circle38"
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
   </g>
 </svg>

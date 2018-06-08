@@ -11,8 +11,8 @@
    height="32"
    version="1"
    id="svg30"
-   sodipodi:docname="media-flash.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="media-flash-sd-mmc.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata36">
     <rdf:RDF>
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview32"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-34.422443"
-     inkscape:cy="15.643055"
+     inkscape:zoom="20.85965"
+     inkscape:cx="9.8639691"
+     inkscape:cy="22.346753"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,7 +55,7 @@
      y="1.8983059"
      ry="5.575182" />
   <rect
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke-width:0.73849881"
+     style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0.73849881"
      width="18.285715"
      height="11.428571"
      x="6.8571424"
@@ -65,67 +65,67 @@
      transform="scale(1,-1)"
      id="rect6" />
   <g
-     style="fill:#f8c44e;stroke-width:0.69794053"
+     style="fill:#fec006;stroke-width:0.69794053;fill-opacity:1"
      id="g26"
      transform="matrix(1.0581114,0,0,1.0581114,-1.4588381,0.69733669)">
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="24"
        y="5"
        id="rect8" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="22"
        y="5"
        id="rect10" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="20"
        y="5"
        id="rect12" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="18"
        y="5"
        id="rect14" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="16"
        y="5"
        id="rect16" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="14"
        y="5"
        id="rect18" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="12"
        y="5"
        id="rect20" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="4"
        x="10"
        y="5"
        id="rect22" />
     <rect
-       style="stroke-width:0.69794053"
+       style="stroke-width:0.69794053;fill:#fec006;fill-opacity:1"
        width="1"
        height="2"
        x="8"

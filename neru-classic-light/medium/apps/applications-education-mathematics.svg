@@ -12,7 +12,7 @@
    version="1"
    id="svg12"
    sodipodi:docname="applications-education-mathematics.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="963"
+     inkscape:window-height="972"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-34.508475"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,8 +55,8 @@
      y="1.8983059"
      ry="5.575182" />
   <path
-     style="fill:#ce8081;enable-background:new"
-     d="m 12.8124,10.25 h 10.406 v 1 h -9.5938 l -1.905,9.094 -0.313,1.406 -0.625,-1.281 -2,-4 0.875,-0.4375 1.3438,2.7187 1.7188,-8.0937 z m 2.4062,2 h 1 l 2,3.1875 2,-3.1875 h 1 l -2.5,4 2.5,4 h -1 l -2,-3.1875 -2,3.1875 h -1 l 2.5,-4 z"
+     style="fill:#cedec4;fill-opacity:1;stroke-width:0.12829772;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+     d="m 11.910382,8.6228814 h 13.35066 V 9.9058585 H 12.952416 L 10.508345,21.573253 10.106773,23.377119 9.304912,21.733625 6.7389577,16.601716 7.8615627,16.040414 9.5856274,19.528444 11.790809,9.1444116 Z m 3.0871,2.5659546 h 1.282977 l 2.565954,4.089489 2.565954,-4.089489 h 1.282978 l -3.207443,5.131908 3.207443,5.131909 h -1.282978 l -2.565954,-4.08949 -2.565954,4.08949 h -1.282977 l 3.207443,-5.131909 z"
      id="path8"
      inkscape:connector-curvature="0" />
 </svg>

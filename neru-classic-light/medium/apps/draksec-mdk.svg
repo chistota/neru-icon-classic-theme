@@ -12,7 +12,7 @@
    version="1"
    id="svg26"
    sodipodi:docname="draksec-mdk.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -37,18 +37,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="963"
+     inkscape:window-height="972"
      id="namedview28"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-34.98305"
-     inkscape:cy="4.6101695"
+     inkscape:cx="-21.084745"
+     inkscape:cy="10.847458"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg26" />
   <rect
-     style="opacity:1;fill:#0077ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
      width="28.203388"
      height="28.203388"
@@ -72,6 +72,6 @@
   <path
      d="m 26.254328,16.400887 a 3.4335364,3.4335364 0 0 0 -3.433536,-3.433537 3.4335364,3.4335364 0 0 0 -3.433536,3.433537 3.4335364,3.4335364 0 0 0 2.14596,3.18038 v 1.969924 H 20.24564 v 2.14596 h 1.287576 v 1.287577 h 2.575152 v -5.402623 a 3.4335364,3.4335364 0 0 0 2.14596,-3.181218 z m -2.14596,0 a 1.2875761,1.2875761 0 0 1 -1.287576,1.287576 1.2875761,1.2875761 0 0 1 -1.287576,-1.287576 1.2875761,1.2875761 0 0 1 1.287576,-1.287576 1.2875761,1.2875761 0 0 1 1.287576,1.287576 z"
      id="path2"
-     style="fill:#003f79;fill-opacity:1;stroke-width:0.42919204"
+     style="fill:#3d6fa1;fill-opacity:1;stroke-width:0.42919204"
      inkscape:connector-curvature="0" />
 </svg>

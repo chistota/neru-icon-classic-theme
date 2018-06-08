@@ -51,10 +51,10 @@
        id="current-color-scheme"
        type="text/css">
       .ColorScheme-Text {
-        color:#f2f2f2;
+        color:#4d4d4d;
       }
       .ColorScheme-Background {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -63,7 +63,7 @@
         color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#314045;
+        color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -75,7 +75,7 @@
         color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;
@@ -628,7 +628,7 @@
        height="0.99999231"
        width="12.999987"
        id="rect4979"
-       style="color:#f2f2f2;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#4d4d4d;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Text" />
     <rect
        y="534.79803"
@@ -636,7 +636,7 @@
        height="1"
        width="13.000044"
        id="rect4981"
-       style="color:#f2f2f2;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#4d4d4d;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Text" />
     <rect
        y="536.79822"
@@ -644,7 +644,7 @@
        height="1"
        width="13.000013"
        id="rect4983"
-       style="color:#f2f2f2;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#4d4d4d;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Text" />
     <path
        transform="translate(376.57144,491.79797)"

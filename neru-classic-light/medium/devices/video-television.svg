@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="video-television.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -36,41 +36,43 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="27.525707"
-     inkscape:cy="12.253205"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-23.561849"
+     inkscape:cy="18.966421"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
-  <g
-     id="g4509">
-    <rect
-       ry="5.575182"
-       y="1.8983059"
-       x="1.8983059"
-       height="28.203388"
-       width="28.203388"
-       id="rect4497-3"
-       style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       ry="0.42582414"
-       y="23.697802"
-       x="10.753538"
-       height="2.9094834"
-       width="10.492923"
-       id="rect4485-6-7"
-       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.04598427;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       ry="2.47458"
-       y="7.5460997"
-       x="4.4255323"
-       height="16.907801"
-       width="23.148935"
-       id="rect4485-6"
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.04598427;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  </g>
+  <rect
+     style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3-3-3-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983063"
+     y="1.8983059"
+     ry="5.575182" />
+  <rect
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.59300303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect832-7-6"
+     width="20.856468"
+     height="15.267958"
+     x="5.5717659"
+     y="7.950489"
+     ry="0.95481807" />
+  <rect
+     style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.38142836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect832-3-5-7"
+     width="18.511448"
+     height="12.936144"
+     x="6.7442765"
+     y="9.0036058"
+     ry="0.80899256" />
+  <path
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.28907692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 14.118543,23.638735 v 0.734484 h -2.538072 v 1.018597 h 8.839057 v -1.018597 h -2.538071 v -0.734484 z"
+     id="rect944-5-5"
+     inkscape:connector-curvature="0" />
 </svg>

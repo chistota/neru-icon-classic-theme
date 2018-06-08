@@ -51,10 +51,10 @@
        id="current-color-scheme"
        type="text/css">
       .ColorScheme-Text {
-        color:#f2f2f2;
+        color:#4d4d4d;
       }
       .ColorScheme-Background {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -63,7 +63,7 @@
         color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#314045;
+        color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -75,7 +75,7 @@
         color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;
@@ -754,7 +754,7 @@
        height="6"
        width="5"
        id="rect4318-8"
-       style="color:#314045;display:inline;overflow:visible;visibility:visible;opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#fcfcfc;display:inline;overflow:visible;visibility:visible;opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        class="ColorScheme-ViewBackground" />
     <rect
        y="524.79797"

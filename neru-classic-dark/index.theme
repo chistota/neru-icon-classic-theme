@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=neru-classic-dark
-Comment=Neru icons for dark theme
-Comment[ru]=Стандартный набор значков для тёмных тем.
+Comment=NERU icons with blue folders for dark themes
+Comment[ru]=НЕРУ значки с синими папками для темных тем 
 Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 DesktopDefault=48

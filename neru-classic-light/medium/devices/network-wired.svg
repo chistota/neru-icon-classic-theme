@@ -12,7 +12,7 @@
    version="1"
    id="svg24"
    sodipodi:docname="network-wired.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="-12.407003"
+     inkscape:cx="-28.850232"
      inkscape:cy="15.609788"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,54 +54,49 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0.75141251"
+     d="M 11.768496,25.23004 9.6527431,23.114287 H 5.4212392 V 8.3040223 H 26.578761 V 23.114287 h -4.231504 l -2.115751,2.115753 z"
+     id="path6" />
   <g
-     id="g4514"
-     transform="matrix(1.2080263,0,0,1.2080263,-3.4922199,-3.7967155)"
-     style="stroke-width:0.82779658">
-    <path
-       id="path6"
-       d="M 12.632768,24.028248 10.881355,22.276835 H 7.3785307 V 10.016949 H 24.892654 V 22.276835 H 21.38983 l -1.751412,1.751413 z"
-       style="opacity:1;fill:#474747;fill-opacity:1;stroke-width:0.62201667"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g18"
-       transform="matrix(0.87570619,0,0,-0.87570619,2.1242935,3.0112994)"
-       style="fill:#f8c44e;stroke-width:0.71030289">
-      <rect
-         id="rect8"
-         y="-10"
-         x="9"
-         height="2"
-         width="2"
-         style="stroke-width:0.71030289" />
-      <rect
-         id="rect10"
-         y="-10"
-         x="12"
-         height="2"
-         width="2"
-         style="stroke-width:0.71030289" />
-      <rect
-         id="rect12"
-         y="-10"
-         x="15"
-         height="2"
-         width="2"
-         style="stroke-width:0.71030289" />
-      <rect
-         id="rect14"
-         y="-10"
-         x="18"
-         height="2"
-         width="2"
-         style="stroke-width:0.71030289" />
-      <rect
-         id="rect16"
-         y="-10"
-         x="21"
-         height="2"
-         width="2"
-         style="stroke-width:0.71030289" />
-    </g>
+     style="fill:#f8c44e;stroke-width:0.71030289"
+     transform="matrix(1.0578761,0,0,-1.0578761,-0.92601748,-0.15898663)"
+     id="g18">
+    <rect
+       style="stroke-width:0.71030289"
+       width="2"
+       height="2"
+       x="9"
+       y="-10"
+       id="rect8" />
+    <rect
+       style="stroke-width:0.71030289"
+       width="2"
+       height="2"
+       x="12"
+       y="-10"
+       id="rect10" />
+    <rect
+       style="stroke-width:0.71030289"
+       width="2"
+       height="2"
+       x="15"
+       y="-10"
+       id="rect12" />
+    <rect
+       style="stroke-width:0.71030289"
+       width="2"
+       height="2"
+       x="18"
+       y="-10"
+       id="rect14" />
+    <rect
+       style="stroke-width:0.71030289"
+       width="2"
+       height="2"
+       x="21"
+       y="-10"
+       id="rect16" />
   </g>
 </svg>

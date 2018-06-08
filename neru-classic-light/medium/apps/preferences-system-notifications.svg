@@ -11,8 +11,8 @@
    width="32"
    version="1"
    id="svg14"
-   sodipodi:docname="preferences-desktop-notification.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="help-faq.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -36,27 +36,46 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="971"
+     inkscape:window-height="972"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="-13.75751"
-     inkscape:cy="16.076323"
+     inkscape:cx="9.5889989"
+     inkscape:cy="14.350503"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="13.327165,23.490327"
+       orientation="0,1"
+       id="guide847"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="15.532379,8.8208575"
+       orientation="0,1"
+       id="guide849"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <rect
-     style="opacity:1;fill:#0086ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
      width="28.203388"
      height="28.203388"
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <path
-     d="M 15.323524,7.9087486 V 19.467778 h 2.31174 V 7.9087486 Z m 0,13.8707664 v 2.311736 h 2.31174 v -2.311736 z"
-     id="path10"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;stroke-width:1.73384595" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.67119408px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5167799"
+     x="12.237843"
+     y="23.038542"
+     id="text837"><tspan
+       sodipodi:role="line"
+       id="tspan835"
+       x="12.237843"
+       y="23.038542"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L Bold';fill:#ffffff;stroke-width:0.5167799">!</tspan></text>
 </svg>

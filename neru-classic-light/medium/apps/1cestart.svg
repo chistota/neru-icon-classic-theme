@@ -12,7 +12,7 @@
    version="1"
    id="svg12"
    sodipodi:docname="1cestart.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-10.711864"
-     inkscape:cy="16"
+     inkscape:cx="-33.966101"
+     inkscape:cy="10.576271"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12" />
   <rect
-     style="opacity:1;fill:#fecd38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#ffe662;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
      width="28.203388"
      height="28.203388"
@@ -58,5 +58,5 @@
      d="m 4.66405,10 v 3 h 2 v 9 h 3 V 10 Z m 13,0 c -3.3137,0 -6,2.6863 -6,6 0,3.3137 2.6863,6 6,6 h 8.6426 c 0.44859,-0.94744 0.80121,-1.9487 1.0293,-3 h -9.672 c -1.6569,0 -3,-1.3431 -3,-3 0,-1.6569 1.3431,-3 3,-3 0.85174,0.0016 1.6626,0.36515 2.2305,1 h 3.418 c -0.846,-2.394 -3.108,-3.996 -5.648,-4 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#fe3838" />
+     style="fill:#ee5037;fill-opacity:1" />
 </svg>

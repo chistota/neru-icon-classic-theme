@@ -12,7 +12,7 @@
    version="1"
    id="svg34"
    sodipodi:docname="drive-multidisk.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata40">
     <rdf:RDF>
@@ -35,14 +35,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1680"
+     inkscape:window-height="972"
      id="namedview36"
      showgrid="false"
      inkscape:zoom="8.8125"
      inkscape:cx="-27.120567"
      inkscape:cy="16"
-     inkscape:current-layer="svg34" />
+     inkscape:current-layer="svg34"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <rect
      style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
@@ -52,17 +55,17 @@
      y="1.8983059"
      ry="5.575182" />
   <g
-     style="stroke-width:1.12012017"
+     style="stroke-width:1.12012017;fill:#fec006;fill-opacity:1"
      id="g4541"
      transform="matrix(0.8927614,0,0,0.8927614,39.765814,1.0225034)">
     <circle
-       style="fill:#76ff03;stroke-width:1.12012017"
+       style="fill:#fec006;stroke-width:1.12012017;fill-opacity:1"
        cx="-19.074467"
        cy="10.634752"
        r="1.5"
        id="circle12" />
     <circle
-       style="fill:#76ff03;stroke-width:1.12012017"
+       style="fill:#fec006;stroke-width:1.12012017;fill-opacity:1"
        cx="-19.074467"
        cy="22.63475"
        r="1.5"

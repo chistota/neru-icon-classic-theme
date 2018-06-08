@@ -11,7 +11,7 @@
    width="32"
    version="1"
    id="svg18"
-   sodipodi:docname="preferences-system-windows-actions.svg.svg"
+   sodipodi:docname="preferences-system-windows-actions.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata24">
@@ -41,8 +41,8 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="12.931736"
-     inkscape:cy="22.148398"
+     inkscape:cx="-3.5114929"
+     inkscape:cy="14.478087"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -74,7 +74,7 @@
      cy="19.280565"
      r="3.7872159" />
   <circle
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.48798963;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#eba93c;fill-opacity:1;stroke:none;stroke-width:0.48798963;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path836-3"
      cx="21.806484"
      cy="10.151946"

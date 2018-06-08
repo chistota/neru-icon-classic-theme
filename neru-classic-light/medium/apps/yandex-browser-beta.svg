@@ -12,7 +12,7 @@
    version="1"
    id="svg14"
    sodipodi:docname="yandex-browser-beta.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="955"
+     inkscape:window-height="972"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-29.898305"
-     inkscape:cy="8.6779661"
+     inkscape:cx="-27.457627"
+     inkscape:cy="10.711864"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#fa424e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
      width="28.203388"
      height="28.203388"
@@ -56,19 +56,20 @@
      ry="5.575182" />
   <g
      id="g4500"
-     transform="matrix(0.83150627,0,0,0.83150627,2.6900791,1.579062)">
+     transform="matrix(0.83150627,0,0,0.83150627,2.6900791,1.579062)"
+     style="fill:#ffffff">
     <path
-       style="fill:#fa424e;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        id="path6"
        d="m 14,15 h 4 v 12 h -4 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#fa424e;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        id="path8"
        d="M 22.485,7.6863 25.314,10.515 16.828,19 14,16.172 Z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#fa424e;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        id="path10"
        d="M 9.5284,7.6863 6.7,10.515 15.185,19 18.014,16.172 Z"
        inkscape:connector-curvature="0" />

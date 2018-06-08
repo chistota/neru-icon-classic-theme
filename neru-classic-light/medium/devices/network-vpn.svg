@@ -12,7 +12,7 @@
    version="1"
    id="svg18"
    sodipodi:docname="network-vpn.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview20"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-30.508475"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,23 +54,19 @@
      x="1.8983059"
      y="1.8983059"
      ry="5.575182" />
-  <g
-     id="g4517"
-     transform="matrix(0.79044684,0,0,0.79044684,3.3528506,3.3528506)">
-    <path
-       id="path2"
-       d="M 16,2 C 11.568,2 8,5.568 8,10 v 3 h 3 v -3 c 0,-2.77 2.23,-5 5,-5 2.77,0 5,2.23 5,5 v 3 h 3 V 10 C 24,5.568 20.432,2 16,2 Z"
-       style="fill:#e6e6e6;fill-opacity:1"
-       inkscape:connector-curvature="0" />
-    <rect
-       id="rect4"
-       transform="matrix(0,-1,-1,0,0,0)"
-       ry="1.4"
-       rx="1.4"
-       y="-27"
-       x="-30"
-       height="22"
-       width="17"
-       style="fill:#fecd38" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.65485364"
+     d="m 16,6.8320493 c -2.902311,0 -5.238829,2.3365178 -5.238829,5.2388287 v 1.964561 h 1.964561 v -1.964561 c 0,-1.813944 1.460323,-3.2742678 3.274268,-3.2742678 1.813945,0 3.274268,1.4603238 3.274268,3.2742678 v 1.964561 h 1.964561 V 12.070878 C 21.238829,9.1685671 18.902311,6.8320493 16,6.8320493 Z"
+     id="path2" />
+  <rect
+     style="fill:#fec006;stroke-width:0.65485364;fill-opacity:1"
+     width="11.132511"
+     height="14.406779"
+     x="-25.167952"
+     y="-23.20339"
+     rx="0.91679507"
+     ry="0.91679507"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect4" />
 </svg>

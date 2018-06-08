@@ -11,8 +11,8 @@
    width="32"
    version="1"
    id="svg16"
-   sodipodi:docname="apport-gtk2.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="gnome-abrt.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,32 +36,37 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="955"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-10.711864"
+     inkscape:cx="-33.966101"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
-  <rect
-     style="opacity:1;fill:#c2352a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497"
-     width="28.203388"
-     height="28.203388"
-     x="1.8983059"
-     y="1.8983059"
-     ry="5.575182" />
   <g
-     transform="matrix(1.5,0,0,1.5,-813.5,535.99975)"
-     id="g12"
-     style="fill:#ffffff">
-    <path
-       d="m 552,-353 v 8.6667 h 2 V -353 Z m 0,10.667 v 2 h 2 v -2 z"
-       style="enable-background:new"
-       id="path10"
-       inkscape:connector-curvature="0" />
+     id="g827"
+     transform="translate(68.610167,9.0847459)">
+    <rect
+       ry="5.575182"
+       y="-7.18644"
+       x="-66.711861"
+       height="28.203388"
+       width="28.203388"
+       id="rect4497-3"
+       style="opacity:1;fill:#c2352a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text837"
+       y="13.953796"
+       x="-56.372326"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.67119408px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5167799"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L Bold';fill:#ffffff;stroke-width:0.5167799"
+         y="13.953796"
+         x="-56.372326"
+         id="tspan835"
+         sodipodi:role="line">!</tspan></text>
   </g>
 </svg>

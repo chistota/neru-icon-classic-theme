@@ -12,8 +12,8 @@
    version="1.1"
    viewBox="0 0 32 32"
    id="svg82"
-   sodipodi:docname="network-server-database.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="network-server.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata88">
     <rdf:RDF>
@@ -37,18 +37,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview84"
      showgrid="false"
-     inkscape:zoom="29.5"
-     inkscape:cx="13.790255"
-     inkscape:cy="15.287224"
+     inkscape:zoom="20.85965"
+     inkscape:cx="12.057649"
+     inkscape:cy="13.047208"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg82" />
   <rect
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
      width="28.203388"
      height="28.203388"
@@ -64,7 +64,7 @@
      x="-25.70339"
      height="20.125549"
      width="6.4689264"
-     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.71876961" />
+     style="fill:#8e8e8e;fill-opacity:1;stroke-width:0.71876961" />
   <path
      inkscape:connector-curvature="0"
      id="path6"
@@ -96,7 +96,7 @@
      r="1.0781544"
      cy="22.658506"
      cx="21.390772"
-     style="fill:#ffff00;stroke-width:0.71876961" />
+     style="fill:#ffff00;stroke-width:0.71876961;fill-opacity:1" />
   <circle
      id="circle24"
      r="1.0781544"
@@ -112,7 +112,7 @@
      x="-19.234463"
      height="20.125549"
      width="6.4689264"
-     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.71876961" />
+     style="fill:#8e8e8e;fill-opacity:1;stroke-width:0.71876961" />
   <path
      inkscape:connector-curvature="0"
      id="path32"
@@ -160,7 +160,7 @@
      x="-12.765536"
      height="20.125549"
      width="6.4689264"
-     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.71876961" />
+     style="fill:#8e8e8e;fill-opacity:1;stroke-width:0.71876961" />
   <path
      inkscape:connector-curvature="0"
      id="path58"

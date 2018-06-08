@@ -56,10 +56,10 @@
        id="current-color-scheme"
        type="text/css">
       .ColorScheme-Text {
-        color:#f2f2f2;
+        color:#4d4d4d;
       }
       .ColorScheme-Background {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -68,7 +68,7 @@
         color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#314045;
+        color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -80,7 +80,7 @@
         color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;

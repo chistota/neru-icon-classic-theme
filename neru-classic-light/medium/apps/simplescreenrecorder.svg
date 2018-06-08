@@ -11,8 +11,8 @@
    width="32"
    version="1"
    id="svg12"
-   sodipodi:docname="recordmydesktop.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="byzanz.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-36.610169"
-     inkscape:cy="16"
+     inkscape:cx="-5.6271182"
+     inkscape:cy="17.355932"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,7 +55,7 @@
      y="1.8983059"
      ry="5.575182" />
   <path
-     style="opacity:0.8;fill:#ffffff;enable-background:new"
+     style="opacity:1;fill:#ffffff;enable-background:new"
      d="m 10.449153,11 c -0.5540005,0 -1.0000005,0.446 -1.0000005,1 v 8 c 0,0.554 0.446,1 1.0000005,1 h 9 c 0.554,0 1,-0.446 1,-1 v -8 c 0,-0.554 -0.446,-1 -1,-1 z m 10,5 4,3 v -6 z"
      id="path6"
      inkscape:connector-curvature="0" />

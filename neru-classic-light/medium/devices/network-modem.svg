@@ -12,7 +12,7 @@
    version="1"
    id="svg20"
    sodipodi:docname="network-modem.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="-1.0001221"
+     inkscape:cx="-17.443351"
      inkscape:cy="14.927028"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -60,7 +60,7 @@
      transform="rotate(90)"
      id="rect4" />
   <path
-     style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 30.101562 16.179688 L 1.8984375 16.179688 L 1.8984375 24.527344 C 1.8984375 27.615995 4.3840054 30.101562 7.4726562 30.101562 L 24.527344 30.101562 C 27.615995 30.101563 30.101562 27.615995 30.101562 24.527344 L 30.101562 16.179688 z "
      id="path4490" />
   <circle

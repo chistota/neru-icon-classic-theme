@@ -12,7 +12,7 @@
    version="1"
    id="svg20"
    sodipodi:docname="accessories-camera.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -36,41 +36,61 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="965"
+     inkscape:window-height="972"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="11.913456"
+     inkscape:cx="-4.5297729"
      inkscape:cy="12.918318"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg20" />
-  <rect
-     style="opacity:1;fill:#5b5b5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497-3"
-     width="28.203388"
-     height="28.203388"
-     x="1.8983059"
-     y="1.8983059"
-     ry="5.575182" />
-  <circle
-     style="opacity:1;fill:#373737;fill-opacity:1"
-     cx="16"
-     cy="16"
-     r="8"
-     id="circle8" />
-  <circle
-     style="fill:#ba174e"
-     cx="16"
-     cy="-16"
-     r="7"
-     transform="scale(1,-1)"
-     id="circle12" />
-  <circle
-     style="fill:#d67495"
-     cx="16"
-     cy="16"
-     r="4"
-     id="circle18" />
+  <g
+     id="g849"
+     transform="translate(41.983179,-0.37174201)">
+    <rect
+       ry="5.575182"
+       y="2.2700479"
+       x="-40.084873"
+       height="28.203388"
+       width="28.203388"
+       id="rect4497-3-3-3-3"
+       style="opacity:1;fill:#5b5b5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path4525-6"
+       d="m -34.713645,2.311195 c -2.988008,0.112468 -5.371094,2.516713 -5.371094,5.533203 v 17.054687 c 0,3.088651 2.485568,5.574219 5.574219,5.574219 h 17.052735 c 3.088651,0 5.576172,-2.485568 5.576172,-5.574219 V 7.844398 c 0,-3.088651 -2.487521,-5.574219 -5.576172,-5.574219 h -13.25586 v 1.5625 c 0,0.277 -0.112219,0.526282 -0.292969,0.707032 -0.18075,0.18075 -0.430031,0.292968 -0.707031,0.292968 h -2 c -0.277,0 -0.528234,-0.112218 -0.708984,-0.292968 -0.18075,-0.18075 -0.291016,-0.430032 -0.291016,-0.707032 z"
+       style="opacity:1;fill:#8e8e8e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4497-3-3"
+       d="m -34.713645,2.311195 v 1.521484 c 0,0.277 0.110266,0.526282 0.291016,0.707032 0.18075,0.18075 0.431984,0.292968 0.708984,0.292968 h 2 c 0.277,0 0.526281,-0.112218 0.707031,-0.292968 0.18075,-0.18075 0.292969,-0.430032 0.292969,-0.707032 v -1.5625 h -3.796875 c -0.07216,0 -0.131645,0.03833 -0.203125,0.04102 z"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="circle8-6-7"
+       r="1"
+       cy="7.6696148"
+       cx="-16.121471"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1" />
+    <circle
+       id="circle10-5"
+       r="8"
+       cy="16.371742"
+       cx="-25.983173"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1" />
+    <circle
+       id="circle14-7-3"
+       transform="scale(1,-1)"
+       r="6"
+       cy="-16.371742"
+       cx="-25.983173"
+       style="fill:#ba174e;fill-opacity:1" />
+    <circle
+       id="circle18-5-5"
+       r="4"
+       cy="16.371742"
+       cx="-25.983173"
+       style="fill:#d67495;fill-opacity:1" />
+  </g>
 </svg>

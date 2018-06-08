@@ -11,8 +11,8 @@
    width="32"
    version="1"
    id="svg12"
-   sodipodi:docname="altyo.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="yakuake.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -36,27 +36,31 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="963"
+     inkscape:window-height="972"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-8.6779661"
+     inkscape:cx="-31.932203"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12" />
-  <rect
-     style="opacity:1;fill:#74b2ed;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4497-3"
-     width="28.203388"
-     height="28.203388"
-     x="1.8983059"
-     y="1.8983059"
-     ry="5.575182" />
-  <path
-     style="fill:#ffffff"
-     d="m 11.5,12.5 v 1 H 11 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 h 0.5 v 1 H 9.5918 c 0.206,0.582 0.754,1 1.4082,1 h 0.5 v 1 h 1 v -1 H 13 c 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.5 -1.5,-1.5 h -0.5 v -1 h 1.9082 c -0.206,-0.582 -0.754,-1 -1.408,-1 h -0.5 v -1 h -1 z m -0.5,2 h 0.5 v 1 H 11 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z m 1.5,2 H 13 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.2233,0.513 -0.5,0.5 h -0.5 z m 4,2 v 1 h 6 v -1 z"
-     id="path10"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g830"
+     transform="translate(60.474577,3.5254238)">
+    <rect
+       ry="5.575182"
+       y="-1.6271179"
+       x="-58.576271"
+       height="28.203388"
+       width="28.203388"
+       id="rect4497-3-3"
+       style="opacity:1;fill:#74b2ed;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10-6"
+       d="m -51.467428,3.1259642 v 1 h -0.5 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 h 0.5 v 1 h -1.9082 c 0.206,0.5819999 0.754,0.9999999 1.4082,0.9999999 h 0.5 v 0.9999999 h 1 V 9.1259641 h 0.5 c 0.831,0 1.5,-0.669 1.5,-1.4999999 0,-0.831 -0.669,-1.5 -1.5,-1.5 h -0.5 v -1 h 1.9082 c -0.206,-0.582 -0.754,-1 -1.408,-1 h -0.5 v -1 h -1 z m -0.5,2 h 0.5 v 1 h -0.5 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z m 1.5,2 h 0.5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.2233,0.513 -0.5,0.5 h -0.5 z m 4,1.9999999 v 0.9999999 h 6 V 9.1259641 Z"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
 </svg>

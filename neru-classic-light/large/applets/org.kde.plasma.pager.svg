@@ -50,10 +50,10 @@
        id="current-color-scheme"
        type="text/css">
       .ColorScheme-Text {
-        color:#f2f2f2;
+        color:#4d4d4d;
       }
       .ColorScheme-Background {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -62,7 +62,7 @@
         color:#31363b;
       }
       .ColorScheme-ViewBackground {
-        color:#314045;
+        color:#fcfcfc;
       }
       .ColorScheme-ViewHover {
         color:#93cee9;
@@ -74,7 +74,7 @@
         color:#31363b;
       }
       .ColorScheme-ButtonBackground {
-        color:#31363b;
+        color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
         color:#93cee9;
@@ -138,7 +138,7 @@
      d="M 24 30 L 24 88 L 116 88 L 116 30 L 24 30 z M 140 30 L 140 88 L 232 88 L 232 30 L 140 30 z M 24 99 L 24 157 L 116 157 L 116 99 L 24 99 z M 24 168 L 24 226 L 116 226 L 116 168 L 24 168 z M 140 168 L 140 226 L 232 226 L 232 168 L 140 168 z "
      id="rect5492-9-6-3" />
   <path
-     style="color:#f2f2f2;opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#4d4d4d;opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-Text"
      d="M 24 30 L 24 88 L 116 88 L 116 30 L 24 30 z M 140 30 L 140 88 L 232 88 L 232 30 L 140 30 z M 25 31 L 115 31 L 115 87 L 25 87 L 25 31 z M 141 31 L 231 31 L 231 87 L 141 87 L 141 31 z M 24 99 L 24 157 L 116 157 L 116 99 L 24 99 z M 25 100 L 115 100 L 115 156 L 25 156 L 25 100 z M 24 168 L 24 226 L 116 226 L 116 168 L 24 168 z M 140 168 L 140 226 L 232 226 L 232 168 L 140 168 z M 25 169 L 115 169 L 115 225 L 25 225 L 25 169 z M 141 169 L 231 169 L 231 225 L 141 225 L 141 169 z "
      id="rect5492-1-0-2-0" />
