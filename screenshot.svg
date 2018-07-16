@@ -102,14 +102,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="2860.2875"
-     inkscape:cy="2614.2485"
+     inkscape:cx="3686.1882"
+     inkscape:cy="2252.2098"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="972"
-     inkscape:window-x="0"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -130,7 +130,7 @@
      id="layer1"
      transform="translate(0,903)">
     <rect
-       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32506654;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#8b3bb9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32506654;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5364-5-2"
        width="1920.0001"
        height="1200"
@@ -1705,7 +1705,9 @@
        inkscape:export-ydpi="25.4" />
     <g
        id="g1195"
-       transform="translate(-15.760081,-19.94058)">
+       transform="translate(-15.760081,-19.94058)"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4">
       <path
          d="m 611.68321,-670.85718 h 8.40182 v -39.3977 h 43.48507 v 39.3977 h 8.40181 v -83.90461 h -8.40181 v 36.89986 h -43.48507 v -36.89986 h -8.40182 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.15800001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2064,11 +2066,13 @@
        style="font-style:normal;font-weight:normal;font-size:62.13497543px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.55337441"
        x="1054.3977"
        y="-580.01508"
-       id="text1116"><tspan
+       id="text1116"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4"><tspan
          sodipodi:role="line"
          id="tspan1114"
          x="1054.3977"
          y="-580.01508"
-         style="fill:#ffffff;stroke-width:1.55337441">2.0</tspan></text>
+         style="fill:#ffffff;stroke-width:1.55337441">2.1</tspan></text>
   </g>
 </svg>
