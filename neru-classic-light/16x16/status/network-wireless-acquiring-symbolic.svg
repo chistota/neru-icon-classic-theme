@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" viewBox="0 0 12 12" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="12" height="12" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="12" height="12"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(36.078431%,38.039216%,42.352941%);fill-opacity:1;" d="M 6 2.726562 C 4.335938 2.726562 2.769531 3.3125 1.636719 4.363281 L 10.363281 4.363281 C 9.230469 3.3125 7.664062 2.726562 6 2.726562 Z M 4.546875 7.636719 L 6 9.273438 L 7.453125 7.636719 Z M 4.546875 7.636719 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(36.078431%,38.039216%,42.352941%);fill-opacity:1;" d="M 4.363281 6 C 4.363281 6.601562 3.875 7.089844 3.273438 7.089844 C 2.671875 7.089844 2.183594 6.601562 2.183594 6 C 2.183594 5.398438 2.671875 4.910156 3.273438 4.910156 C 3.875 4.910156 4.363281 5.398438 4.363281 6 Z M 4.363281 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(36.078431%,38.039216%,42.352941%);fill-opacity:1;" d="M 7.089844 6 C 7.089844 6.601562 6.601562 7.089844 6 7.089844 C 5.398438 7.089844 4.910156 6.601562 4.910156 6 C 4.910156 5.398438 5.398438 4.910156 6 4.910156 C 6.601562 4.910156 7.089844 5.398438 7.089844 6 Z M 7.089844 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(36.078431%,38.039216%,42.352941%);fill-opacity:1;" d="M 9.816406 6 C 9.816406 6.601562 9.328125 7.089844 8.726562 7.089844 C 8.125 7.089844 7.636719 6.601562 7.636719 6 C 7.636719 5.398438 8.125 4.910156 8.726562 4.910156 C 9.328125 4.910156 9.816406 5.398438 9.816406 6 Z M 9.816406 6 "/>
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+</g>
+</svg>

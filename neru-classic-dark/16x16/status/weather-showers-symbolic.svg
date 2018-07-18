@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12pt" height="12pt" viewBox="0 0 12 12" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(81.960784%,85.098039%,89.019608%);fill-opacity:1;" d="M 6 1.90625 C 4.871094 1.90625 3.910156 2.601562 3.496094 3.578125 C 2.445312 3.734375 1.636719 4.628906 1.636719 5.726562 C 1.636719 6.929688 2.613281 7.90625 3.816406 7.90625 L 8.453125 7.90625 C 9.507812 7.90625 10.363281 7.050781 10.363281 6 C 10.363281 5.015625 9.628906 4.214844 8.679688 4.105469 C 8.425781 2.855469 7.324219 1.90625 6 1.90625 Z M 6 1.90625 "/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(81.960784%,85.098039%,89.019608%);stroke-opacity:1;stroke-miterlimit:4;" d="M 3.001302 12.501885 L 1.998698 14.499932 " transform="matrix(0.545455,0,0,0.545455,1.636364,1.907352)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(81.960784%,85.098039%,89.019608%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.500651 12.501885 L 4.498047 14.499932 " transform="matrix(0.545455,0,0,0.545455,1.636364,1.907352)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(81.960784%,85.098039%,89.019608%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8 12.501885 L 6.997396 14.499932 " transform="matrix(0.545455,0,0,0.545455,1.636364,1.907352)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(81.960784%,85.098039%,89.019608%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10.499349 12.501885 L 9.496745 14.499932 " transform="matrix(0.545455,0,0,0.545455,1.636364,1.907352)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(81.960784%,85.098039%,89.019608%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12.998698 12.501885 L 12.003255 14.499932 " transform="matrix(0.545455,0,0,0.545455,1.636364,1.907352)"/>
+</g>
+</svg>
