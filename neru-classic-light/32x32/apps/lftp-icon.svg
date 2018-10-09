@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1"
+   id="svg10"
+   sodipodi:docname="lftp-icon.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="972"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="18.215721"
+     inkscape:cy="14.720813"
+     inkscape:window-x="1360"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <rect
+     style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4497-3"
+     width="28.203388"
+     height="28.203388"
+     x="1.8983059"
+     y="1.8983059"
+     ry="5.575182" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.13479424px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.38222113;"
+     x="6.0624995"
+     y="18.600647"
+     id="text837"><tspan
+       sodipodi:role="line"
+       id="tspan835"
+       x="6.0624995"
+       y="18.600647"
+       style="stroke-width:0.38222113;fill:#4d4d4d;fill-opacity:1;">LFTP</tspan></text>
+  <path
+     style="fill:#498dff;fill-opacity:1;stroke:none;stroke-width:1.05949914;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 19.797851,5.5024705 V 7.604033 H 7.0927736 V 9.2993455 H 19.797851 V 11.402862 L 22.352539,9.9262986 24.907226,8.4516893 22.352539,6.9770799 Z"
+     id="rect843"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#498dff;fill-opacity:1;stroke:none;stroke-width:1.05949914;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 12.202149,26.89637 V 24.794807 H 24.907227 V 23.099495 H 12.202149 v -2.103517 l -2.5546888,1.476564 -2.554687,1.474609 2.554687,1.474609 z"
+     id="rect843-3"
+     inkscape:connector-curvature="0" />
+</svg>

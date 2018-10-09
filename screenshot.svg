@@ -102,14 +102,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="1038.7804"
-     inkscape:cy="2252.2098"
+     inkscape:cx="3397.6886"
+     inkscape:cy="1890.1711"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="972"
-     inkscape:window-x="0"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -130,7 +130,7 @@
      id="layer1"
      transform="translate(0,903)">
     <rect
-       style="opacity:1;fill:#8b3bb9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32506654;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#00084d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32506654;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5364-5-2"
        width="1920.0001"
        height="1200"
@@ -138,7 +138,8 @@
        y="-903"
        ry="0"
        inkscape:export-xdpi="25.4"
-       inkscape:export-ydpi="25.4" />
+       inkscape:export-ydpi="25.4"
+       inkscape:export-filename="screenshot.png" />
     <path
        style="opacity:1;fill:url(#linearGradient6800);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.21176496;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 487.20883,-903 H 1631.0165 C 1977.2294,-164.36098 1025.4586,157.43247 542.88471,297 H 214.82887 C 1445.1261,-111.27674 1053.7188,-600.94655 487.20883,-903 Z"
@@ -2073,6 +2074,6 @@
          id="tspan1114"
          x="1054.3977"
          y="-580.01508"
-         style="fill:#ffffff;stroke-width:1.55337441">2.2</tspan></text>
+         style="fill:#ffffff;stroke-width:1.55337441">2.3</tspan></text>
   </g>
 </svg>
