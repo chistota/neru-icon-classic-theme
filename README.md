@@ -1,12 +1,12 @@
 neru-icon-classic-theme
 =========================
 
-* Классическая тема иконок Неру для РОСA. Версия 2.3
-* Classic theme icons Neru for ROSA. Version 2.3
+* Классическая тема иконок Неру для РОСA. Версия 2.4
+* Classic theme icons Neru for ROSA. Version 2.4
 
 ## Изображение / Image
 
-![Screenshot](classic.png)
+![Screenshot](screenshot.svg)
 
 ## Изменения
 
