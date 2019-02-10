@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-mail.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="971"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-64.474576"
-     inkscape:cy="16"
-     inkscape:window-x="0"
+     inkscape:cx="-5.8983048"
+     inkscape:cy="17.084746"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,7 +53,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
+     style="opacity:1;fill:#ececec;fill-opacity:1"
      d="m 16,11.627119 c -3.313,0 -6,2.687 -6,6 0,3.314 2.687,6 6,6 h 3.75 c 0,0 0.703,-0.301 0.75,-1.051 0,-0.75 -0.75,-0.949 -0.75,-0.949 H 16 c -0.195,-0.001 -0.389,-0.017 -0.582,-0.047 -0.7,-0.079 -1.256,-0.299 -1.676,-0.652 l -0.006,-0.004 c -1.086,-0.746 -1.736,-1.979 -1.736,-3.297 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,0.454 -0.092,0.745 -0.24,1.002 -0.004,0 -0.007,-0.002 -0.01,-0.002 h -0.934 c 0.112,-0.314 0.184,-0.648 0.184,-1 0,-1.657 -1.343,-3 -3,-3 -1.656,0 -3,1.343 -3,3 0,1.657 1.343,3 3,3 h 3.75 c 0.542,-0.05 0.923,-0.371 1.27,-0.576 0.762,-0.544 0.98,-1.31 0.98,-2.424 0,-3.314 -2.686,-6 -6,-6 z m 0,5 c 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 z"
      id="path14"
      inkscape:connector-curvature="0" />

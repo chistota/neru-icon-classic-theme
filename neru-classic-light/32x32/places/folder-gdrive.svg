@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-gdrive.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,15 +36,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="971"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="7.375"
-     inkscape:cx="-36.474576"
-     inkscape:cy="16"
-     inkscape:window-x="0"
+     inkscape:cx="2.5762715"
+     inkscape:cy="16.40678"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -55,8 +55,8 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
-     d="m 14.25,13.127119 3,5 h 4 l -3.334,-5 z m -0.699,0.6 -2.801,5.4 1.9,3 2.6,-5.4 z m 1.699,5.4 -1.5,3 h 6 l 1.5,-3 z"
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke-width:1.15496373"
+     d="m 13.978814,12.429782 3.464891,5.774819 h 4.619854 L 18.21291,12.429782 Z m -0.80732,0.692979 -3.2350533,6.236804 2.1944313,3.464891 3.002905,-6.236804 z m 1.962283,6.236804 -1.732445,3.464891 h 6.929782 l 1.732445,-3.464891 z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

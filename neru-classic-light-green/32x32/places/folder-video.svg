@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-video.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="994"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-32.271186"
-     inkscape:cy="12.474576"
-     inkscape:window-x="0"
+     inkscape:cx="-25.830508"
+     inkscape:cy="20.067797"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,7 +53,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
+     style="opacity:1;fill:#ececec;fill-opacity:1"
      d="m 11.563559,13.644068 c -0.416,0 -0.75,0.335 -0.75,0.75 v 6.5 c 0,0.416 0.334,0.75 0.75,0.75 h 7.5 c 0.416,0 0.75,-0.334 0.75,-0.75 v -3.25 -3.25 c 0,-0.415 -0.334,-0.75 -0.75,-0.75 z m 8.25,4 3,3 v -6 z"
      id="path14"
      inkscape:connector-curvature="0" />

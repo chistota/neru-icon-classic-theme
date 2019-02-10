@@ -11,7 +11,7 @@
    height="32"
    version="1"
    id="svg16"
-   sodipodi:docname="folder_home.svg"
+   sodipodi:docname="folder-home.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
@@ -40,9 +40,9 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-63.525424"
-     inkscape:cy="-0.81355932"
-     inkscape:window-x="0"
+     inkscape:cx="-13.966101"
+     inkscape:cy="15.864407"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,8 +53,8 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
-     d="m 11,17.855932 h 1 v 4 h 3 v -3 h 2 v 3 h 3 v -4 h 1 l -5,-5 z"
+     style="opacity:1;fill:#917446;fill-opacity:1;stroke-width:1.21694911"
+     d="m 9.9152542,17.964407 h 1.2169488 v 4.867796 h 3.650848 v -3.650847 h 2.433898 v 3.650847 h 3.650848 v -4.867796 h 1.216949 L 16,11.879661 Z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

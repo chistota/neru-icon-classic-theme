@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-dropbox.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="994"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-69.288136"
-     inkscape:cy="16"
-     inkscape:window-x="0"
+     inkscape:cx="-31.864406"
+     inkscape:cy="15.050847"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,7 +53,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:0.65"
+     style="opacity:1;fill:#ececec;fill-opacity:1"
      d="m 13.33,12.88644 -3.33,2 2.67,2 -2.68,2 3.34,2 2.67,-2 -3.33,-2 3.33,-2 3.33,2 -3.33,2 2.67,2 3.34,-2 -2.68,-2 2.67,-2 -3.33,-2 -2.67,2 z m 2.67,6.6 -2.67,2 -0.66,-0.4 v 0.4 l 3.33,2 3.33,-2 v -0.4 l -0.66,0.4 z"
      id="path14"
      inkscape:connector-curvature="0" />

@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-recent.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="994"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-24.610169"
-     inkscape:cy="6.6440678"
-     inkscape:window-x="0"
+     inkscape:cx="-34.644068"
+     inkscape:cy="24"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,8 +53,8 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
-     d="m 16,11.355932 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,2 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z m -1,1 v 4 h 4 v -2 h -2 v -2 z"
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke-width:1.11299431"
+     d="M 16,10.677966 A 6.6779661,6.6779661 0 0 0 9.3220339,17.355932 6.6779661,6.6779661 0 0 0 16,24.033898 6.6779661,6.6779661 0 0 0 22.677966,17.355932 6.6779661,6.6779661 0 0 0 16,10.677966 Z m 0,2.225989 A 4.4519774,4.4519774 0 0 1 20.451977,17.355932 4.4519774,4.4519774 0 0 1 16,21.807909 4.4519774,4.4519774 0 0 1 11.548023,17.355932 4.4519774,4.4519774 0 0 1 16,12.903955 Z m -1.112994,1.112994 v 4.451977 h 4.451977 v -2.225988 h -2.225989 v -2.225989 z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

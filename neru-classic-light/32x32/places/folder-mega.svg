@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-mega.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="971"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-64.474576"
-     inkscape:cy="16"
-     inkscape:window-x="0"
+     inkscape:cx="1.8305087"
+     inkscape:cy="23.728814"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,8 +53,8 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
-     d="m 16,11.762712 c -3.314,0 -6,2.686 -6,6 0,3.314 2.686,6 6,6 3.314,0 6,-2.686 6,-6 0,-3.314 -2.686,-6 -6,-6 z m -3,3 h 2 v 0 l 1,1 1,-1 h 2 v 6 h -2 v -3 l -1,1 -1,-1 v 3 h -2 z"
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke-width:1.15819204"
+     d="m 16,10.813559 c -3.838249,0 -6.9491525,3.110904 -6.9491525,6.949153 0,3.838249 3.1109035,6.949153 6.9491525,6.949153 3.838249,0 6.949153,-3.110904 6.949153,-6.949153 0,-3.838249 -3.110904,-6.949153 -6.949153,-6.949153 z m -3.474576,3.474577 h 2.316384 v 0 L 16,15.446328 17.158192,14.288136 h 2.316384 v 6.949152 H 17.158192 V 17.762712 L 16,18.920904 14.841808,17.762712 v 3.474576 h -2.316384 z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

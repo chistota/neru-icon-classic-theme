@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-print.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="994"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-30.169491"
-     inkscape:cy="-9.8983051"
-     inkscape:window-x="0"
+     inkscape:cx="-34.033898"
+     inkscape:cy="15.322034"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,8 +53,8 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
-     d="m 13,13.033898 v 2 h 6 v -2 z m -1.285,3 c -0.357,0 -0.715,0.349 -0.715,0.699 v 2.602 c 0,0.35 0.358,0.699 0.715,0.699 H 13 v 3 h 6 v -3 h 1.285 c 0.357,0 0.715,-0.349 0.715,-0.699 v -2.602 c 0,-0.35 -0.358,-0.699 -0.715,-0.699 z m 1.285,2 h 6 v 1 h -6 z"
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke-width:1.24406779"
+     d="m 12.267797,11.813559 v 2.488136 h 7.464406 v -2.488136 z m -1.598628,3.732203 c -0.444132,0 -0.889508,0.43418 -0.889508,0.869604 v 3.237064 c 0,0.435424 0.445376,0.869604 0.889508,0.869604 h 1.598628 v 3.732203 h 7.464406 v -3.732203 h 1.598628 c 0.444132,0 0.889508,-0.43418 0.889508,-0.869604 v -3.237064 c 0,-0.435424 -0.445376,-0.869604 -0.889508,-0.869604 z m 1.598628,2.488136 h 7.464406 v 1.244068 h -7.464406 z"
      id="path14"
      inkscape:connector-curvature="0" />
 </svg>

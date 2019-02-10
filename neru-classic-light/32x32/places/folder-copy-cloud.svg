@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-copy-cloud.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -36,13 +36,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="971"
+     inkscape:window-height="972"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-36.474576"
-     inkscape:cy="16"
-     inkscape:window-x="0"
+     inkscape:cx="3.6610172"
+     inkscape:cy="20.610169"
+     inkscape:window-x="1360"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
@@ -53,8 +53,8 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:0.65098041"
-     d="m 19.822034,12.779661 -2.25,3.75 1.5,0.75 z m -8.25,2.25 -2.2500001,1.607 3.0000001,-0.107 1.5,5.25 0.75,-0.75 6.75,0.75 -2.25,-3.75 -0.965,-0.536 -3.642,2.143 -1.715,-4.285 z m 4.179,1.607 -1.715,1.071 0.643,1.5 3,-1.714 -1.071,-0.857 z"
-     id="path14"
+     style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 20.09322,12.584746 -2.249999,3.75 1.5,0.75 z m -8.249999,2.25 -2.2500013,1.607422 3.0000013,-0.107422 1.5,5.25 0.75,-0.75 6.75,0.75 -2.25,-3.75 -0.964844,-0.535156 -3.642578,2.142578 -1.714844,-4.285157 z m 4.179687,1.607422 -1.716797,1.070312 0.644532,1.5 3,-1.71289 -1.072266,-0.857422 z"
+     id="path816"
      inkscape:connector-curvature="0" />
 </svg>
